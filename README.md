@@ -8,7 +8,7 @@ This course is by the Harvard University
 
   
 <h1 style=”color:red;”>Inline CSS in Red</h1>
-<p style=”font-family:Cursive; color:yellow;”>This is a paragraph in yellow text color.</p>
+<p style=”font-family:Fantasy; color:yellow;”>This is a paragraph in yellow text color.</p>
 
 
 
