@@ -15,5 +15,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sarasoll/CS50x/main/harvard-logo-transparent.png" />
 </p>
-  <H1>I hope you enjoy them  😎
+  <H1 align="center">I hope you enjoy them  😎
 </H1>
