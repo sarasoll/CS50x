@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/sarasoll/CS50x/main/cs50-1.png" />
 </p>
 
-<H1>This is a collecting of the CS50x weekly projects
+<H1 align="center">This is a collecting of the CS50x weekly projects
 </H1>
-  <H1>This course is by the Harvard University
+  <H1 align="center">This course is by the Harvard University
 </H1>
 
 
