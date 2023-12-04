@@ -1,4 +1,4 @@
-#C code for a resulte of "Hi, "yourName"" 
+#C code for a result of "Hi, "yourName"" 
 
 #include <stdio.h>
 #include <cs50.h>
