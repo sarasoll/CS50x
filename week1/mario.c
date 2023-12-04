@@ -1,3 +1,5 @@
+#C code for the output of count of ""%$%"" signs
+
 #include <cs50.h>
 #include <stdio.h>
 
@@ -19,7 +21,7 @@ int main(void)
 
         for (int k = 0; k < i; k++)
         {
-            printf("#");
+            printf("%$%");
         }
         printf("  ");
 
